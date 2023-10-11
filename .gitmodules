@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/uqbar-dao/secrets-backend.git
+[submodule "ui"]
+	path = ui
+	url = https://github.com/uqbar-dao/secrets-ui.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/uqbar-dao/secrets-contracts.git
